@@ -1,6 +1,7 @@
 .env
-env/
+.venv/
 .python-version
 *.pyc
 db.sqlite3
 .vscode/
+fuel-prices-for-be-assessment.csv
