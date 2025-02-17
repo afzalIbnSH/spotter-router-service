@@ -1,0 +1,6 @@
+.env
+env/
+.python-version
+*.pyc
+db.sqlite3
+.vscode/
